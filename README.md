@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mathieu-duverne
-- 👀 I’m interested in Robotics / Electronic and automatisation
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on different programming projects
-- 📫 reach me on linkedin https://www.linkedin.com/in/mathieu-duverne-8b55961ab/ or mat.duverne@gmail.com
+Hi,
+I am a software engineer from France with a keen interest in open source.
+Social: [mat.duverne@gmail.com](https://mastodon.social/@DevMattew)
 
 <!---
 mathieu-duverne/mathieu-duverne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
