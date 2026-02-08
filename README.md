@@ -1,5 +1,4 @@
 Hi,
-
 I am a software engineer from France with a keen interest in open source.
 
 Social: [DevMattew](https://mastodon.social/@DevMattew)
